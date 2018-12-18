@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/users/ug15/utkarshm/Downloads/database/dbassign/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2916799730.index
+1220799526.index
+1834096680.index
+4245361617.index
+2084718805.index
